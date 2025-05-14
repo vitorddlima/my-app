@@ -1,21 +1,23 @@
-import {View, Text, Image, StyleSheet, ImageSourcePropType} from "react-native"
+import { View, StyleSheet, Text, Image, ImageSourcePropType } from "react-native";
 
-export const Header = ({image} : {image: ImageSourcePropType}) => {
+
+export const Header = ({image} : ImageSourcePropType) => {
     return(
         <View style={styles.background}>
-           <Text>Header exemplo</Text>
-           <Image source={image}/>
+            <Text></Text>
+            <Text></Text>
+            <Image source={image}></Image>
         </View>
     )
 }
 
 const styles = StyleSheet.create({
-    background: {
-        backgroundColor: '#090909',
+    background:{
+       
         display: 'flex',
         alignItems: 'center',
-        justifyContent:'center',
         paddingHorizontal: 10,
         paddingVertical: 30
     }
+
 })

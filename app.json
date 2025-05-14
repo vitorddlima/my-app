@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "teste",
-    "slug": "teste",
+    "name": "expo-dev",
+    "slug": "expo-dev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "teste",
+    "scheme": "expodev",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

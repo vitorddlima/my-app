@@ -5,6 +5,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "2",
@@ -12,6 +13,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "3",
@@ -19,6 +21,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "4",
@@ -26,6 +29,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "5",
@@ -33,6 +37,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "6",
@@ -40,6 +45,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "7",
@@ -47,6 +53,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
+
     },
     {
         "id": "8",
@@ -54,19 +61,7 @@
         "idade": "35",
         "data": "10/10/2025",
         "imagem": "../assets/images/react-logo.png"
-    },
-    {
-        "id": "9",
-        "nome": "batata",
-        "idade": "35",
-        "data": "10/10/2025",
-        "imagem": "../assets/images/react-logo.png"
-    },
-    {
-        "id": "10",
-        "nome": "batata",
-        "idade": "35",
-        "data": "10/10/2025",
-        "imagem": "../assets/images/react-logo.png"
+
     }
+
 ]
